@@ -1,4 +1,3 @@
-//https://snack.expo.dev/@roycechua/redux-react-native-sample-simple-todo
 
 import * as React from 'react';
 
